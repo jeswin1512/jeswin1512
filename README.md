@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on backend architecture and API development.
 - 🌱 I’m currently learning advanced system design and cloud databases.
 - 💬 Ask me about Python, FastAPIs/Django, and Database management.
-- 📫 How to reach me: **[Unga Email ID inga type pannunga]**
+- 📫 How to reach me: **[jeswinrt12@gmail.com]**
 
 ---
 
@@ -36,5 +36,5 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jeswin-r-86540a258" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
